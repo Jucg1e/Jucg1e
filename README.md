@@ -6,7 +6,7 @@ Desarrollador de software con experiencia en desarrollo web y proyectos full sta
 
 ## ✅ ¿Quién soy?
 - 🎓 Ingeniero Informatico (Duoc UC)
-- 💻 Interés principal en desarrollo **Full Stack**}
+- 💻 Interés principal en desarrollo **Full Stack**
   
 ---
 
