@@ -22,7 +22,3 @@ Desarrollador de software con experiencia en desarrollo web y proyectos full sta
 - **DB & Tools:** PostgreSQL, MySQL, Git, GitHub, Docker  
 - **Testing:** backend (unitario e integración)
 
----
-
-## 📬 Contacto
-- 💼 LinkedIn: https://www.linkedin.com/in/fabian-olate
