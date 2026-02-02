@@ -17,7 +17,7 @@ Desarrollador de software con experiencia en desarrollo web y proyectos full sta
 ---
 
 ## ⚙️ Tecnologías
-- **Frontend:** Angular, React, HTML, CSS, JavaScript  
+- **Frontend:** Angular, React, Vue, HTML, CSS, JavaScript  
 - **Backend:** Python (Django, Flask), APIs REST  
 - **DB & Tools:** PostgreSQL, MySQL, Git, GitHub, Docker  
 - **Testing:** backend (unitario e integración)
